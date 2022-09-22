@@ -14,9 +14,12 @@ https://ohmyz.sh/#install
 https://docs.docker.com/desktop/install/mac-install/
 
 ### IDE's
-https://www.jetbrains.com/toolbox-app/
-
-https://code.visualstudio.com/download
+* https://www.jetbrains.com/toolbox-app/
+* https://code.visualstudio.com/download
 
 ### Documentation
 https://obsidian.md/
+
+### Homebrew
+* tldr
+* htop
