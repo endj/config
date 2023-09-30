@@ -16,4 +16,4 @@ alias ..="cd .."
 alias ll="ls -lahG"
 alias ls="ls -lhG"
 
-PROMPT='edin %2~ '
+PROMPT='%2~ '
